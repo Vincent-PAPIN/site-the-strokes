@@ -935,6 +935,13 @@ background-color:#D0393E;}
           line-height: 30px;
           font-size: 15px;
         }
+
+        .paragraphe3 span{
+          color: red;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-style: italic;
+          font-size: 15px;
+        }
   
   
     /* Small only
